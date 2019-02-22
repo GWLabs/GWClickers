@@ -9,6 +9,11 @@ Clickers are expensive and have minimal usability. Professors have a large learn
 3. Maintain information privacy
 4. Account for breaches in academic integrity
 
+### Components and Getting Started!
+
+* [ReactJS web application](./web-app)
+* Mobile App - not yet started!
+
 ### Design
 
 ![Project Architecture](https://raw.githubusercontent.com/GWLabs/GWClickers/master/gwclickers-architecture.png)
